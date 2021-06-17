@@ -1,0 +1,7 @@
+{
+  "name": "atividade1BrancoAngular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
